@@ -1,4 +1,4 @@
-# 类大众点评项目
+﻿# 类大众点评项目
 
 基于 SpringBoot + Redis 的点评类应用实战项目，涵盖了 Redis 在实际业务场景中的多种应用模式。
 
@@ -280,6 +280,5 @@ while ((num & 1) != 0) {
 4. **消息队列**：Redis Stream 实现异步处理
 5. **数据结构应用**：Set、ZSet、BitMap、GEO 的实际应用
 6. **分布式 ID**：Redis 自增实现唯一 ID 生成
-#   R e d i s R e v i e w  
- #   R e d i s R e v i e w  
+#   R e d i s R e v i e w 
  
